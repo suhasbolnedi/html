@@ -1,0 +1,4 @@
+// Example functionality for a button click (optional)
+document.querySelector('.cta-btn').addEventListener('click', function() {
+    alert('Thank you for getting in touch!');
+});
